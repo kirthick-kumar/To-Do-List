@@ -2,7 +2,7 @@ Listify is an intuitive, user-friendly website designed to streamline the proces
 
 ![image](https://github.com/kirthick-kumar/To-Do-List/assets/103768802/fac24e65-b714-483e-89fc-41830ebf58ac)
 
-Listify users can enjoy a personalized experience with their own accounts whit their own lists and tasks.
+Listify users can enjoy a personalized experience with their own accounts which includes the option to create lists and tasks unique to that account.
 
 ![image](https://github.com/kirthick-kumar/To-Do-List/assets/103768802/ebeca104-4c85-4983-8138-13fa25f849f9)
 
