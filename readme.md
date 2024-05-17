@@ -1,4 +1,3 @@
-Listify
 Listify is an intuitive, user-friendly website designed to streamline the process of creating, managing, and organizing your to-do lists. It aids you to stay on top of your tasks, ensuring that you never miss a deadline or forget an important appointment again.
 
 ![image](https://github.com/kirthick-kumar/To-Do-List/assets/103768802/ebeca104-4c85-4983-8138-13fa25f849f9)
